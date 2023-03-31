@@ -1,0 +1,66 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Maude"
+    },
+    {
+      "id": 2,
+      "name": "Merle"
+    }
+  ],
+  "completions": [
+    {
+      "requestId": "3",
+      "plumberId": "1",
+      "date_created": 1680119281045,
+      "id": 1
+    },
+    {
+      "requestId": "3",
+      "plumberId": "1",
+      "date_created": 1680119297696,
+      "id": 2
+    },
+    {
+      "requestId": "3",
+      "plumberId": "2",
+      "date_created": 1680119337008,
+      "id": 3
+    },
+    {
+      "requestId": "3",
+      "plumberId": "1",
+      "date_created": 1680119365856,
+      "id": 4
+    },
+    {
+      "requestId": "3",
+      "plumberId": "1",
+      "date_created": 1680119606931,
+      "id": 5
+    },
+    {
+      "requestId": "3",
+      "plumberId": "1",
+      "date_created": 1680119887206,
+      "id": 6
+    }
+  ],
+  "requests": [
+    {
+      "description": "clogged sink",
+      "address": "1800 blue rd",
+      "budget": "500",
+      "neededBy": "2023-03-31",
+      "id": 3
+    },
+    {
+      "description": "leaky sink",
+      "address": "100 two rd",
+      "budget": "120",
+      "neededBy": "2023-04-07",
+      "id": 4
+    }
+  ]
+}

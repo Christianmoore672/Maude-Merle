@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css?family=Comfortaa|Patua+One");
+
+.field {
+    flex-direction: column;
+}
+
+.button { 
+    background-color: #174d62;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: rgb(255, 255, 255);
+    margin: 10px 0;
+    width: 200px;
+}
+
+.label {
+    font-size: 25px;
+    
+}
+
+input {
+    width: 95%;
+}
